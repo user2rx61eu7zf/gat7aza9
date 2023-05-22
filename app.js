@@ -33,7 +33,7 @@ function cachertitre()
 
 function birthday()
 {
- const audio=new Audio("P/birthday.mp3");
+ const audio=new Audio("sounds/birthday.mp3");
     audio.play();
 }
 function birthdayimg()
